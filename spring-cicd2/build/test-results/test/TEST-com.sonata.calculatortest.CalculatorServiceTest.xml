@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sonata.calculatortest.CalculatorServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-08-23T08:46:23" hostname="BG4NB1427" time="1.648">
+  <properties/>
+  <testcase name="testMultiplication()" classname="com.sonata.calculatortest.CalculatorServiceTest" time="1.627"/>
+  <testcase name="testAddition()" classname="com.sonata.calculatortest.CalculatorServiceTest" time="0.003"/>
+  <testcase name="testDivisionByZero()" classname="com.sonata.calculatortest.CalculatorServiceTest" time="0.004"/>
+  <testcase name="testDivision()" classname="com.sonata.calculatortest.CalculatorServiceTest" time="0.003"/>
+  <testcase name="testSubtraction()" classname="com.sonata.calculatortest.CalculatorServiceTest" time="0.002"/>
+  <system-out><![CDATA[14:16:19.799 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sonata.calculatortest.CalculatorServiceTest]: CalculatorServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:16:19.979 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sonata.SpringCicd2Application for test class com.sonata.calculatortest.CalculatorServiceTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-08-23T14:16:20.736+05:30  INFO 1684 --- [    Test worker] c.s.c.CalculatorServiceTest              : Starting CalculatorServiceTest using Java 20.0.1 with PID 1684 (started by Aishwarya.M in C:\Users\Aishwarya.M\new workspace\spring-cicd2)
+2023-08-23T14:16:20.754+05:30  INFO 1684 --- [    Test worker] c.s.c.CalculatorServiceTest              : No active profile set, falling back to 1 default profile: "default"
+2023-08-23T14:16:23.045+05:30  INFO 1684 --- [    Test worker] c.s.c.CalculatorServiceTest              : Started CalculatorServiceTest in 2.763 seconds (process running for 4.954)
+TestCase-1: Successfull]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
